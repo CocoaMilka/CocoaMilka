@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 style="text-align: center;">Hello There!</h1>
+
+I am CocoaMilka, a Computer Science major currently attending Missouri S&T! I love code and sharks and XR! Below you can find some of my projects :3
+
 
 <!--
 **CocoaMilka/CocoaMilka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
