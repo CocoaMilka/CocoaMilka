@@ -1,7 +1,12 @@
-<h1 style="text-align: center;">Hello There!</h1>
+<h1 align="center">Hello There!!!</h1>
 
-I am CocoaMilka, a Computer Science major currently attending Missouri S&T! I love code and sharks and XR! Below you can find some of my projects :3
+I am CocoaMilka, a Computer Science major and 2D/3D artist currently attending Missouri S&T! I love code and sharks and XR! Below you can find some of my projects and list of skills :3
 
+## Development Skillset
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py,unity,html,css)](https://skillicons.dev)
+
+## Art Skillset
+[![My Skills](https://skillicons.dev/icons?i=blender,ps,pr)](https://skillicons.dev)
 
 <!--
 **CocoaMilka/CocoaMilka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
