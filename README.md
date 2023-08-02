@@ -2,11 +2,16 @@
 
 I am CocoaMilka, a Computer Science major and 2D/3D artist currently attending Missouri S&T! I love code and sharks and XR! Below you can find some of my projects and list of skills :3
 
+Currently most of my work is within unity, developing VR/AR applications as well as shaders. I create my own models and textures for most of my projects.
+
 ## Development Skillset
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py,unity,html,css)](https://skillicons.dev)
 
 ## Art Skillset
 [![My Skills](https://skillicons.dev/icons?i=blender,ps,pr)](https://skillicons.dev)
+
+------
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4AHKWS)
 
 <!--
 **CocoaMilka/CocoaMilka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
