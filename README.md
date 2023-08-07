@@ -5,7 +5,9 @@ I am CocoaMilka, a Computer Science major and 2D/3D artist currently attending M
 Currently most of my work is within unity, developing VR/AR applications as well as shaders. I create my own models and textures for most of my projects.
 
 ## Development Skillset
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py,unity,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## Art Skillset
 [![My Skills](https://skillicons.dev/icons?i=blender,ps,pr)](https://skillicons.dev)
