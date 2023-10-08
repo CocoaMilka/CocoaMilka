@@ -6,8 +6,9 @@ Currently most of my work is within unity, developing VR/AR applications as well
 
 ## Development Skillset
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py)](https://skillicons.dev) <br/>
-[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev) <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
 
 ## Art Skillset
 [![My Skills](https://skillicons.dev/icons?i=blender,ps,pr)](https://skillicons.dev)
