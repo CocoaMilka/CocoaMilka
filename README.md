@@ -1,6 +1,6 @@
-<h1 align="center">Hello There!!!</h1>
+<h1 align="center">Hallöchen!!!</h1>
 
-I am CocoaMilka, a Computer Science major and 2D/3D artist currently attending Missouri S&T! I love code and sharks and XR! Below you can find some of my projects and list of skills :3
+I am CocoaMilka, a Computer Science graduate student and 2D/3D artist currently attending Universität Bayreuth! I love code and sharks and XR! Below you can find some of my projects and list of skills :3
 
 Currently most of my work is within unity, developing VR/AR applications as well as shaders. I create my own models and textures for most of my projects.
 
