@@ -1,15 +1,6 @@
 <h1 align="center">Hallöchen!!!</h1>
 
-I am CocoaMilka, a Computer Science graduate student and 2D/3D artist currently attending Universität Bayreuth! I love code and sharks and XR! Below you can find some of my projects and list of skills :3
-
-Currently most of my work is within unity, developing VR/AR applications as well as shaders. I create my own models and textures for most of my projects.
-
-## Development
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py)](https://skillicons.dev) <br/>
-[![My Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev) <br/>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocoamilka&layout=compact)
+I am CocoaMilka, a Computer Science graduate student and 2D/3D artist currently attending Universität Bayreuth! Below you can find some of my projects :3
 
 ------
 <div align="center">
